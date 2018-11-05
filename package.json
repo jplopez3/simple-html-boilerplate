@@ -1,0 +1,29 @@
+{
+  "name": "canvas",
+  "version": "1.0.0",
+  "description": "Simple canvas manipulation",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp build",
+	"clean": "gulp clean",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "canvas",
+    "game",
+    "aimation"
+  ],
+  "author": "João Lopez",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlclean": "^2.7.22",
+    "gulp-inject": "^4.3.2",
+    "gulp-uglify": "^3.0.1",
+    "gulp-webserver": "^0.9.1"
+  }
+}
