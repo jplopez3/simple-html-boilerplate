@@ -1,0 +1,15 @@
+$red-salsa : #F03A47;
+$blue-yale: #1B3E8F;
+$white-smoke: #FBF5F3;
+$fulvous: #E28413;
+$black-rich : #000022;
+$white : #FFFFFF;
+$body-background-color: $white-smoke !default;
+$body-size: 16px !default;
+
+
+html{
+  background-color: $body-background-color;
+  font-size: $body-size;
+}
+  

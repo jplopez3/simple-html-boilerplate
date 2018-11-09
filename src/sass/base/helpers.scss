@@ -1,0 +1,56 @@
+// Overflow
+.is-clipped{
+  overflow: hidden !important
+}
+  
+
+// Overlay
+
+/*.is-overlay
+  @extend %overlay
+
+
+.is-unselectable
+  @extend %unselectable
+
+$alignments: ('centered': 'center', 'justified': 'justify', 'left': 'left', 'right': 'right')
+*/
+
+.is-capitalized{
+  text-transform: capitalize !important
+}
+ 
+
+.is-lowercase{
+  text-transform: lowercase !important
+}
+  
+.is-uppercase{
+  text-transform: uppercase !important
+}
+  
+.is-italic{
+  font-style: italic !important
+}
+  
+.is-hidden{
+  display: none !important
+}
+  
+.is-marginless{
+  margin: 0 !important
+}
+  
+.is-paddingless{
+  padding: 0 !important
+}
+  
+.is-radiusless{
+  border-radius: 0 !important
+}
+
+.is-shadowless{
+  box-shadow: none !important;
+}
+  
+

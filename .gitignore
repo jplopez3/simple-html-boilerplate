@@ -1,4 +1,8 @@
 # Build and Release Folders
+node_modules/
+tmp/
+dist/
+.gitignore
 bin-debug/
 bin-release/
 [Oo]bj/
